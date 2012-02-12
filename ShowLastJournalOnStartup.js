@@ -1,0 +1,1 @@
+config.shadowTiddlers["DefaultTiddlers"] = "[["+store.getTaggedTiddlers("journal","modified").reverse()[0].title+"]]";
